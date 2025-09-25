@@ -1,6 +1,6 @@
 # Inter-University MOOC Collaboration System
 
-This project is a Flask-based backend for a distributed educational infrastructure enabling universities to collaborate on MOOCs.
+This project is a Springboot-based web application for a distributed educational infrastructure enabling universities to collaborate on MOOCs.
 
 ## Features
 
@@ -11,8 +11,8 @@ This project is a Flask-based backend for a distributed educational infrastructu
 ## Setup
 
 ### Prerequisites
-- Python 3.8+
-- Java (for the JDBC bridge)
+- Java
+-JDK 21 or later
 
 ### Installation
 1. Clone the repository:
